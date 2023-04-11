@@ -628,3 +628,18 @@
 {"level":"error","message":"Mon Apr 10 2023 05:04:34 GMT+0700 (Indochina Time)-{\"errors\":{\"comments.2.content\":{\"name\":\"ValidatorError\",\"message\":\"Path `content` is required.\",\"properties\":{\"message\":\"Path `content` is required.\",\"type\":\"required\",\"path\":\"content\"},\"kind\":\"required\",\"path\":\"content\"}},\"_message\":\"idea validation failed\",\"name\":\"ValidationError\",\"message\":\"idea validation failed: comments.2.content: Path `content` is required.\"}","private":true}
 {"level":"error","message":"Mon Apr 10 2023 05:05:10 GMT+0700 (Indochina Time)-{\"errors\":{\"comments.2.content\":{\"name\":\"ValidatorError\",\"message\":\"Path `content` is required.\",\"properties\":{\"message\":\"Path `content` is required.\",\"type\":\"required\",\"path\":\"content\"},\"kind\":\"required\",\"path\":\"content\"}},\"_message\":\"idea validation failed\",\"name\":\"ValidationError\",\"message\":\"idea validation failed: comments.2.content: Path `content` is required.\"}","private":true}
 {"level":"error","message":"Mon Apr 10 2023 05:05:14 GMT+0700 (Indochina Time)-{\"errors\":{\"comments.2.content\":{\"name\":\"ValidatorError\",\"message\":\"Path `content` is required.\",\"properties\":{\"message\":\"Path `content` is required.\",\"type\":\"required\",\"path\":\"content\"},\"kind\":\"required\",\"path\":\"content\"},\"comments.7.content\":{\"name\":\"ValidatorError\",\"message\":\"Path `content` is required.\",\"properties\":{\"message\":\"Path `content` is required.\",\"type\":\"required\",\"path\":\"content\",\"value\":\"\"},\"kind\":\"required\",\"path\":\"content\",\"value\":\"\"}},\"_message\":\"idea validation failed\",\"name\":\"ValidationError\",\"message\":\"idea validation failed: comments.2.content: Path `content` is required., comments.7.content: Path `content` is required.\"}","private":true}
+{"level":"error","message":"Tue Apr 11 2023 15:07:01 GMT+0700 (Indochina Time)-{\"name\":\"NOT FOUND\",\"statusCode\":404,\"isOperational\":true,\"errorStack\":\"Not found user\"}","private":true}
+{"level":"error","message":"Tue Apr 11 2023 15:07:49 GMT+0700 (Indochina Time)-{\"name\":\"NOT FOUND\",\"statusCode\":400,\"isOperational\":true,\"errorStack\":\"Wrong username/password\"}","private":true}
+{"level":"error","message":"Tue Apr 11 2023 23:36:28 GMT+0700 (Indochina Time)-{}","private":true}
+{"level":"error","message":"Tue Apr 11 2023 23:42:38 GMT+0700 (Indochina Time)-{}","private":true}
+{"level":"error","message":"Tue Apr 11 2023 23:42:54 GMT+0700 (Indochina Time)-{}","private":true}
+{"level":"error","message":"Tue Apr 11 2023 23:42:54 GMT+0700 (Indochina Time)-{}","private":true}
+{"level":"error","message":"Tue Apr 11 2023 23:45:05 GMT+0700 (Indochina Time)-{}","private":true}
+{"level":"error","message":"Tue Apr 11 2023 23:53:18 GMT+0700 (Indochina Time)-{}","private":true}
+{"level":"error","message":"Tue Apr 11 2023 23:53:26 GMT+0700 (Indochina Time)-{}","private":true}
+{"level":"error","message":"Tue Apr 11 2023 23:53:51 GMT+0700 (Indochina Time)-{}","private":true}
+{"level":"error","message":"Tue Apr 11 2023 23:54:21 GMT+0700 (Indochina Time)-{}","private":true}
+{"level":"error","message":"Tue Apr 11 2023 23:57:10 GMT+0700 (Indochina Time)-{}","private":true}
+{"level":"error","message":"Tue Apr 11 2023 23:57:29 GMT+0700 (Indochina Time)-{}","private":true}
+{"level":"error","message":"Wed Apr 12 2023 00:14:53 GMT+0700 (Indochina Time)-{}","private":true}
+{"level":"error","message":"Wed Apr 12 2023 00:15:03 GMT+0700 (Indochina Time)-{}","private":true}
