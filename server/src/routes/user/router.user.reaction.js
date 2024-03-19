@@ -24,7 +24,6 @@ router.post('/like/:id', verifyToken, async (req, res, next) => {
     const userEmail = user.profile.email;
 
 
-    console.log(userEmail);
     const like = idea.likes.find((like) => like.likesId && like.likesId.toString() === user._id.toString());
 
     const dislike = idea.dislikes.find((dislike) => dislike.dislikesId && dislike.dislikesId.toString() === user._id.toString())
